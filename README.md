@@ -1,4 +1,10 @@
-### Hi there 👋
+### Oh hi there 
+
+
+<div id="badges">
+  <img src="https://img.shields.io/github/followers/blee3395?style=social" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/blee3395?style=social" alt="GitHub Stars"/> 
+</div>
 
 <!--
 **blee3395/blee3395** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
