@@ -4,8 +4,6 @@
 <div id="badges">
   <img src="https://img.shields.io/github/followers/blee3395?style=social" alt="GitHub Followers"/>
   <img src="https://img.shields.io/github/stars/blee3395?style=social" alt="GitHub Stars"/> 
-  <img src="https://komarev.com/ghpvc/?username=blee3395&label=Profile%20views&color=42adf5&style=flat" alt="blee3395" />
-
 </div>
 
 <!--
